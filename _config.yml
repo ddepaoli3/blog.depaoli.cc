@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Push through the pain because giving up hurts more"
   - text: "If it is important to you you will find a way. If not you'll find an excuse"
+  - text: "There's no such thing as bad weather, just soft people"
 
 #me-img: "/img/jetpacktocat.png"
 
